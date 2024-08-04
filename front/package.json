@@ -1,0 +1,19 @@
+{
+  "name": "test-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx watch ./src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^6.13.0"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.9.15",
+    "tsx": "^4.16.5"
+  }
+}
